@@ -1,2 +1,2 @@
-# App React Native
+# Apps em React Native
  Portifólio
